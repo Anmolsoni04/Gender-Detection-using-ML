@@ -1,0 +1,10 @@
+1) Find the dataset.
+2) Data PreProcessing by importing all necessary libraries
+3) Data modelling
+4) Start the training
+5) Apply the model in camera
+
+
+
+
+
